@@ -101,11 +101,10 @@ L’application permet à l’utilisateur de renseigner :
 
 afin d’obtenir une **estimation cohérente** selon le profil.
 
-### Lancer l’application en local
+### Lancer l’application :
 
-(```bash)
-pip install -r requirements.txt
-streamlit run src/streamlit/app.py
+ [Prédiction de salaire](https://mlsalairespredictions-mg3mrvnyju2rxfqdmwhqfv.streamlit.app/)
+ 
 
 ## 🔍 Insights clés
 
