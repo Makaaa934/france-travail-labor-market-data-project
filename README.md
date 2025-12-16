@@ -143,16 +143,6 @@ Projet réalisé en collaboration avec :
 
 ---
 
-## 🇬🇧 English summary
-
-**Objective**  
-Analyze how Data skills demand evolves in France using France Travail data, enriched with international comparisons, BI dashboards, and machine learning.
-
-**Outcome**  
-A complete end-to-end data project combining analysis, visualization, and prediction to support better job offer calibration and candidate orientation.
-
----
-
 ## 📌 À propos
 
 Ce projet s’inscrit dans un parcours de **reconversion vers les métiers de la Data**, avec une forte attention portée à :
