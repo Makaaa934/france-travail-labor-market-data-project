@@ -161,7 +161,7 @@ Les analyses présentées dans ce projet s’appuient sur des données publiques
 
 - **Données internationales (job market / salaries)**  
   Agrégation de jeux de données ouverts issus de plateformes internationales scrappés par [Luke Barousse](https://github.com/lukebarousse)
-  *(ex : Kaggle, sources open data publiques — utilisées à des fins comparatives)*
+ et Kaggle, sources open data publiques — (utilisées à des fins comparatives)
 
 - **Traitements & enrichissements**  
   Nettoyage, normalisation et agrégation réalisés par l’équipe projet  
