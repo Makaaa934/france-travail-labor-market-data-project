@@ -66,6 +66,11 @@ Le dashboard permet notamment :
 - de visualiser les **écarts France / International**
 - d’explorer les données par **domaine et type d’entreprise**
 
+![Overview](docs/screenshots/Overview.png)
+![Domaines](docs/screenshots/Domaine.png)
+![Entreprises](docs/screenshots/entreprises.png)
+![France vs Monde](docs/screenshots/Comparaison.png)
+
 ---
 
 ## 🧠 Machine Learning — Dataiku
@@ -101,9 +106,8 @@ L’application permet à l’utilisateur de renseigner :
 
 afin d’obtenir une **estimation cohérente** selon le profil.
 
-### Lancer l’application :
-
- [Prédiction de salaire](https://mlsalairespredictions-mg3mrvnyju2rxfqdmwhqfv.streamlit.app/)
+### Démonstrateur Streamlit
+👉 [Accéder à l'application de prédiction de salaire](https://mlsalairespredictions-mg3mrvnyju2rxfqdmwhqfv.streamlit.app/)
  
 
 ## 🔍 Insights clés
