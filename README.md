@@ -160,3 +160,24 @@ Ce projet s’inscrit dans un parcours de **reconversion vers les métiers de la
 - la lisibilité des analyses
 - la capacité à transformer la donnée en décision
 
+## 📚 Sources de données
+
+Les analyses présentées dans ce projet s’appuient sur des données publiques et ouvertes :
+
+- **France Travail**  
+  Offres d’emploi, compétences, domaines d’activité  
+  https://www.francetravail.fr  
+  https://api.francetravail.io  
+
+- **Données internationales (job market / salaries)**  
+  Agrégation de jeux de données ouverts issus de plateformes internationales scrappés par [Luke Barousse](https://github.com/lukebarousse)
+  *(ex : Kaggle, sources open data publiques — utilisées à des fins comparatives)*
+
+- **Traitements & enrichissements**  
+  Nettoyage, normalisation et agrégation réalisés par l’équipe projet  
+  à des fins d’analyse, de visualisation et de modélisation.
+
+> ⚠️ Ce projet est réalisé à des fins pédagogiques et analytiques.  
+> Les résultats présentés ne constituent ni une vérité absolue, ni une recommandation officielle de France Travail.
+
+
